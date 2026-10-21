@@ -1,0 +1,54 @@
+# RAG Chat PDF — Techtaru Digital
+# .gitignore
+
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ChromaDB persistent store
+chroma_db/
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local tooling & strays
+.pytest_cache/
+.commandcode/
+pymask

@@ -1,0 +1,187 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1010 >>
+stream
+BT
+/F1 14 Tf
+50 760 Td
+18 TL
+(Techtaru Digital - Company Factsheet) Tj
+T*
+() Tj
+T*
+(1. Overview) Tj
+T*
+(Techtaru Digital Pvt. Ltd. is a GenAI engineering studio founded in) Tj
+T*
+(2019 and headquartered in Pune, India, with a second office in) Tj
+T*
+(Singapore. The company builds retrieval-augmented generation \(RAG\)) Tj
+T*
+(systems, voice agents and data pipelines for mid-size enterprises.) Tj
+T*
+() Tj
+T*
+(2. Key figures \(as of Q3 2025\)) Tj
+T*
+(- Employees: 84) Tj
+T*
+(- Clients: 37 active engagements across 6 countries) Tj
+T*
+(- Revenue FY2024: 14.2 crore INR \(about 1.7 million USD\)) Tj
+T*
+(- Revenue FY2023: 9.6 crore INR) Tj
+T*
+(- Average project duration: 11 weeks) Tj
+T*
+(- Offer letter turnaround: 5 working days) Tj
+T*
+() Tj
+T*
+(3. Products) Tj
+T*
+(RAG-GPT is the flagship product: a document intelligence chat) Tj
+T*
+(service backed by LangChain and ChromaDB. VoiceBridge is a) Tj
+T*
+(multilingual AI voice agent. LedgerIQ is an automated invoice) Tj
+T*
+(reconciliation pipeline.) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 6 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 1019 >>
+stream
+BT
+/F1 14 Tf
+50 760 Td
+18 TL
+(Techtaru Digital - Company Factsheet \(2/3\)) Tj
+T*
+() Tj
+T*
+(4. Hiring process) Tj
+T*
+(Stage 1: resume screening \(2 days\).) Tj
+T*
+(Stage 2: technical task - candidates build a small RAG pipeline) Tj
+T*
+(and are evaluated on their understanding of the vector search) Tj
+T*
+(internals, their handling of edge cases such as API rate limits) Tj
+T*
+(and empty queries, and the quality of their README documentation.) Tj
+T*
+(Stage 3: 45-minute system design interview.) Tj
+T*
+(Stage 4: founder chat and offer.) Tj
+T*
+() Tj
+T*
+(5. Employee benefits) Tj
+T*
+(- Annual learning budget: 60,000 INR per employee) Tj
+T*
+(- Flexible hours: 10:00 to 18:00 core overlap in IST) Tj
+T*
+(- Work-from-anywhere: up to 8 weeks per year) Tj
+T*
+(- Health insurance: family floater of 10 lakh INR) Tj
+T*
+(- Performance bonus: up to 15 percent of annual CTC) Tj
+T*
+() Tj
+T*
+(6. Notice period) Tj
+T*
+(The standard notice period is 60 days; employees can negotiate a) Tj
+T*
+(buyout of 30 days of salary.) Tj
+T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 8 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 911 >>
+stream
+BT
+/F1 14 Tf
+50 760 Td
+18 TL
+(Techtaru Digital - Company Factsheet \(3/3\)) Tj
+T*
+() Tj
+T*
+(7. Client policy) Tj
+T*
+(Projects start with a paid two-week discovery sprint. If the) Tj
+T*
+(client cancels during a sprint, 50 percent of the sprint fee is) Tj
+T*
+(refundable. Support contracts run on a monthly retainer and can) Tj
+T*
+(be cancelled by either side with 30 days' notice.) Tj
+T*
+() Tj
+T*
+(8. Contact) Tj
+T*
+(- Email: careers@techtaru.example) Tj
+T*
+(- Website: www.techtaru.example) Tj
+T*
+(- Address: 4th floor, Baner Road, Pune 411045, India) Tj
+T*
+() Tj
+T*
+(This factsheet is a synthetic document bundled with the RAG-GPT) Tj
+T*
+(demo app so recruiters can test the assistant immediately:) Tj
+T*
+(ask questions like 'What is the learning budget?' or 'What is) Tj
+T*
+(the refund policy for cancelled sprints?' and every answer is) Tj
+T*
+(retrieved strictly from this PDF with page citations.) Tj
+T*
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000259 00000 n 
+0000001320 00000 n 
+0000001446 00000 n 
+0000002516 00000 n 
+0000002642 00000 n 
+0000003603 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+3700
+%%EOF

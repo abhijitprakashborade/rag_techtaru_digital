@@ -1,0 +1,17 @@
+[theme]
+base            = "dark"
+primaryColor    = "#6366f1"
+backgroundColor = "#07070f"
+secondaryBackgroundColor = "#0e0e1c"
+textColor       = "#f1f5f9"
+font            = "sans serif"
+
+[server]
+# The source watcher scans every imported module path on each rerun;
+# with `transformers` installed that means hundreds of torchvision
+# tracebacks and real CPU cost per rerun. This app is restarted
+# manually (start.bat), so file watching buys nothing.
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,39 @@
+# ============================================================
+# RAG Chat PDF — Techtaru Digital
+# Requirements — Python 3.11+
+# ============================================================
+
+# Core Streamlit UI
+streamlit>=1.40.0
+
+# LangChain ecosystem — v1.x LCEL composition
+langchain>=1.0.0
+langchain-classic>=1.0.0
+langchain-core>=1.0.0
+langchain-text-splitters>=0.3.0
+langchain-huggingface>=0.1.0
+langchain-chroma>=0.1.4
+
+# LLM providers — only the one matching LLM_PROVIDER is used
+langchain-google-genai>=2.0.0
+langchain-openai>=0.2.0
+langchain-anthropic>=0.3.0
+
+# Vector store
+chromadb>=0.5.0
+
+# PDF extraction — pdfplumber primary, pypdf fallback
+pdfplumber>=0.11.0
+pypdf>=4.0.0
+
+# Embeddings (local, no second API key)
+sentence-transformers>=3.0.0
+
+# Retry / resilience
+tenacity>=8.2.0
+
+# Environment config
+python-dotenv>=1.0.0
+
+# Development / tests
+pytest>=8.0.0
